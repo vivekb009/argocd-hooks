@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Mudassir-dev0ps/argocd-hooks-demo.git
+    repoURL: https://github.com/Mudassir-dev0ps/argocd-hooks.git
     targetRevision: master
     path: hookimp 
   destination:
